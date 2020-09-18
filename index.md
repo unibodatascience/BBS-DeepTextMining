@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Text Mining Unit
 
 You can use the [editor on GitHub](https://github.com/unibodatascience/textmining/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
