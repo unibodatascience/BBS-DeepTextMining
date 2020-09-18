@@ -24,7 +24,7 @@ Suggested Readings:
 - Tang D., Zhang M. Deep Learning in Sentiment Analysis. [In Deep Learning in Natural Language Processing](https://www.dropbox.com/s/yzeheq8zuh0owmi/Optional_Deep_Learning_in_Sentiment_A nalysis.pdf?dl=0). Springer 
 
 
-### Assesment
+### Assessment method
 A project work on topics of Data Mining and/or Text Mining approved by the one of the teachers, followed by the oral discusison on both modules.  
 
 
