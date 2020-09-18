@@ -27,7 +27,7 @@ Suggested Readings:
 
 ### Assessment method
 
-A project work on the topics of Data Mining and/or Text Mining approved by one of the teachers, followed by the oral discusison on both modules. Here is a not exaustive list of text sets, anyway the project can also employ different data:
+A project work on the topics of Data Mining and/or Text Mining approved by one of the teachers, followed by the oral discussion on both modules. Here is a not exaustive list of text sets, anyway the project can also employ different data:
 - [10 text sets](https://analyticsindiamag.com/10-open-source-datasets-for-text-classification/)
 - [14 text sets](https://lionbridge.ai/datasets/14-best-text-classification-datasets-for-machine-learning/)
 - [many others for different NLP tasks](https://machinelearningmastery.com/datasets-natural-language-processing/)
