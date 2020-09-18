@@ -37,4 +37,4 @@ A project work on the topics of Data Mining and/or Text Mining approved by one o
 ### Contact and student meeting
 
 [Prof. Gianluca Moro](mailto:name d o t surname a t unibo d o t it)<br> 
-16:30-18:30 each working day; please send an email to schedule a meeting  
+16:30-18:00 each working day; please send an email to schedule a meeting  
