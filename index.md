@@ -8,7 +8,9 @@ The laboratory activities - which are carried out with WEKA, R and Python mainly
 - classification of documents by topic with several machine learning algorithms
 - sentiment analysis and opinion mining of unlabeled text sets from twitter and labeled from tripadvisor, edmunds, amazon 
 - language models, deep neural networks and transfer learning in opinion mining and sentiment analysis 
-- text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.    
+- text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.  
+
+**[Lectures and Labs]()**
 
 ### Readings
 
