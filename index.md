@@ -10,7 +10,7 @@ The laboratory activities - which are carried out with WEKA, R and Python mainly
 - language models, deep neural networks and transfer learning in opinion mining and sentiment analysis 
 - text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.  
 
-**[Lectures and Labs]()**
+**[Lectures and Labs](lectures_labs.md)**
 
 ### Readings
 
