@@ -11,7 +11,7 @@ The laboratory activities - which are carried out with WEKA, R and Python mainly
 - text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.  
 
 
-**[LECTURES AND LABS](lectures_labs.md)**
+##[Lectures and Labs](lectures_labs.md)##
 
 
 ### Readings
