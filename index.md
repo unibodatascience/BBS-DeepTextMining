@@ -12,6 +12,7 @@ The laboratory activities - which are carried out with WEKA, R and Python mainly
 
 **[Lectures and Labs](lectures_labs.md)**
 
+
 ### Readings
 
 Slides, lab materials and papers will be supplied by the teacher.
@@ -21,6 +22,10 @@ Suggested Readings:
 - B. Liu and L. Zhang. [A survey of opinion mining and sentiment analysis. In Mining Text Data](http://www.cs.uic.edu/~lzhang3/paper/opinion_survey.pdf), Editors C. Aggarwal and C. Xiang Zhai. Springer. 
 - Lei Zhang, Shuai Wang, and Bing Liu. [Deep learning for sentiment analysis: A survey. In Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery](https://arxiv.org/abs/1801.07883), 8(4).
 - Tang D., Zhang M. Deep Learning in Sentiment Analysis. [In Deep Learning in Natural Language Processing](https://www.dropbox.com/s/yzeheq8zuh0owmi/Optional_Deep_Learning_in_Sentiment_A nalysis.pdf?dl=0). Springer 
+
+
+### Assesment
+A project work on topics of Data Mining and/or Text Mining approved by the one of the teachers, followed by the oral discusison on both modules.  
 
 
 ### Contact and student meeting
