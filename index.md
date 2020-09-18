@@ -24,4 +24,4 @@ Suggested Readings:
 ### Contact and student meeting
 
 [Prof. Gianluca Moro](mailto:name.surname @ unibo.it)<br> 
-Each day: 16:30-18:30 (via Microsoft Teams); please send an email to schedule a meeting  
+Each working day: 16:30-18:30 (via Microsoft Teams); please send an email to schedule a meeting  
