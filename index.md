@@ -6,7 +6,7 @@ The learning outcomes of the module are the capabilities of defining and impleme
 
 The laboratory activities - which are carried out with WEKA, R and Python mainly using Google Colab - regard the following case studies:
 
-- in the context of technical reports on air accidents, identification of the reasons that contribute to cause serious accidents
+- in the context of technical reports on aircraft accidents, identification of the reasons that contribute to causing serious accidents
 - classification of documents by topic with several machine learning algorithms
 - sentiment analysis and opinion mining of unlabeled text sets from twitter and labeled from tripadvisor, edmunds, amazon 
 - language models, deep neural networks and transfer learning in opinion mining and sentiment analysis 
