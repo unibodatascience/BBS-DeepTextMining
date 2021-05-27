@@ -2,7 +2,7 @@
 
 The text mining module focuses on knowledge discovering from large corpora of unstructured text which is fundamental to deal with several natural language processing tasks (NLP), such as text representation models, text indexing and classification, named entity extraction, analysis of topics, semantic similarity search, explaining phenomena of interest (a.k.a. descriptive text mining), sentiment analysis and opinion mining, text summarisation, chatbot and digital assistant design etc.
 
-The learning outcomes of the module are the capabilities of defining and implementing text mining processes, from text processing and representation with traditional approaches and then with novel neural language models, up to the knowledge discovery with data science methods and machine & deep learning algorithms from several sources, such as tweets, facebook posts, reviews, web pages, emails, loan requests, legal cases, news and documents in general. The module introduces non-contextual language models based on word embeddings, such as GloVe and word2vec, and memory-based neural networks particularly effective for textual data, such as recurrent neural networks like LSTM, GRU and BiLSTM, up to the attention mechanism, the transformer and the state-of-the-art of contextual word embeddings based on BERT for text classification, summarization and translation. Last but not least, the unit illustrates the transfer learning paradigm to exploit and fine tune existing models in target domains which are semantically different from their training source domains; this is particularly useful in order to overcome the lack of labeled data in the target domain.             
+The learning outcomes of the module are the capabilities of defining and implementing text mining task, from text processing and representation with traditional approaches and then with novel neural language models, up to the knowledge discovery with data science methods and machine & deep learning algorithms from several sources, such as tweets, facebook posts, reviews, web pages, emails, loan requests, legal cases, news and documents in general. The module introduces non-contextual language models based on word embeddings, such as GloVe and word2vec, and memory-based neural networks particularly effective for textual data, such as recurrent neural networks like LSTM, GRU and BiLSTM, up to an introduction to the attention mechanism with the transformer architecture for contextual word embeddings based on BERT applied to text classification, summarization and translation. Last but not least, the unit illustrates the transfer learning paradigm to exploit and fine tune existing models in target domains which are semantically different from their training source domains; this is particularly useful in order to overcome the lack of labeled data in the target domain.             
 
 The laboratory activities - which are carried out with WEKA, R and Python mainly using Google Colab - regard the following case studies:
 
@@ -10,7 +10,7 @@ The laboratory activities - which are carried out with WEKA, R and Python mainly
 - classification of documents by topic with several machine learning algorithms
 - sentiment analysis and opinion mining of unlabeled text sets from twitter and labeled from tripadvisor, edmunds, amazon 
 - language models, deep neural networks and transfer learning in opinion mining and sentiment analysis 
-- text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.  
+- (optional) text summarisation and applications to real legal cases with state-of-the-art deep learning solutions.  
 
 
 ## [Lectures and Labs](lectures_labs.md)
@@ -29,7 +29,12 @@ Suggested Readings:
 
 ## Assessment method
 
-A project work on the topics of Data Mining and/or Text Mining approved by one of the teachers, followed by the oral discussion on both modules. Here is a non exhaustive list of text sets, anyway the project can also employ different data:
+The exam is composed by an evaluated team work lab and by an individual lab exercise with WEKA, both assigned by the teacher on one or more topics included in the syllabus. 
+
+
+## Online Text Sets 
+
+Here is a non exhaustive list of text sets to optionally make practice with: 
 - [10 text sets](https://analyticsindiamag.com/10-open-source-datasets-for-text-classification/)
 - [14 text sets](https://lionbridge.ai/datasets/14-best-text-classification-datasets-for-machine-learning/)
 - [many others for different NLP tasks](https://machinelearningmastery.com/datasets-natural-language-processing/)
