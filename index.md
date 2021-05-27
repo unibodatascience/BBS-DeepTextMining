@@ -32,7 +32,9 @@ Suggested Readings:
 The exam is composed by an evaluated team work lab and by an individual lab exercise with WEKA, both assigned by the teacher on one or more topics included in the syllabus. 
 
 
-## [Syllabus](https://www.dropbox.com/s/asy92gs386ljr87/Text_Mining_Syllabus_2020_2021.pdf?dl=0)
+## Class timetable
+
+[Syllabus](https://www.dropbox.com/s/asy92gs386ljr87/Text_Mining_Syllabus_2020_2021.pdf?dl=0)
 
 
 ## Online Text Sets 
