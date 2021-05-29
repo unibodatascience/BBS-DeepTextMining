@@ -1,6 +1,6 @@
 ## Slides and labs
 
-[1](https://www.dropbox.com/s/vnb8a37t458ks9x/1_text_processing_text_mining_unit_master_in_data_science.pdf?dl=0)
+[01 Text Processing, Representation and Retrieval](https://www.dropbox.com/s/vnb8a37t458ks9x/1_text_processing_text_mining_unit_master_in_data_science.pdf?dl=0)
 
 [//]: # (This is a comment.) [2](https://www.dropbox.com/sh/a1ic59qjke42ysz/AAAWbpB40zROT1BXvZ1TZyP_a?dl=0)
 
