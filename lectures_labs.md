@@ -10,7 +10,7 @@
 
 [//]: # (This is a comment.) [02] LSA Lab2 aerei (https://www.dropbox.com/sh/8lnx8poc39fcxdt/AADpjicWpgnAU4ynYV0QyPa-a?dl=0)
 
-[02 Text Classification](https://www.dropbox.com/sh/kyawf6200wbftuy/AACsSxww4TSLS4y4RhMkqHnha?dl=0)
+[02 Text Classification] (https://www.dropbox.com/sh/kyawf6200wbftuy/AACsSxww4TSLS4y4RhMkqHnha?dl=0)
 
 [//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
 
