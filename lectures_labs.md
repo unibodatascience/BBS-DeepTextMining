@@ -12,6 +12,10 @@
 
 [02 Text Classification](https://www.dropbox.com/sh/kyawf6200wbftuy/AACsSxww4TSLS4y4RhMkqHnha?dl=0)
 
+[03 Sentiment Analysis & Opinion Mining](https://www.dropbox.com/s/zu0pfnvlqon94s7/3_opinion_mining_text_mining_unit_master_in_data_science.pdf?dl=0)
+
+[04 Lab of Text Classification](https://www.dropbox.com/s/1ynr9rkjm8prw3o/E2_lab_text_classification_ntsb_in_weka.pdf?dl=0)
+
 [//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
 
 [//]: # (This is a comment.) [8](https://www.dropbox.com/sh/329jwttlehmdul7/AAB9D25UyrWnj-y7Dm0ucxZBa?dl=0)
