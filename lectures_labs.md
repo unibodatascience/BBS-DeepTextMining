@@ -22,6 +22,9 @@
 
 [06 Lab: Opinion Mining Team Work](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/06%20-%20Opinion%20MIning%20Team%20Work/2a_opinion_lab_teamwork.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/06%20-%20Opinion%20MIning%20Team%20Work/2a_opinion_lab_teamwork.ipynb)
 
+[06 Lab: Opinion Mining Team Work](https://github.com/unibodatascience/BBS-TextMining/blob/gh-pages/06%20-%20Opinion%20MIning%20Team%20Work/2b-opinion-lab-teamwork-solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/gh-pages/06%20-%20Opinion%20MIning%20Team%20Work/2b-opinion-lab-teamwork-solutions.ipynb)
+
+
 [Opinion Mining Lab: Exercises](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb)
 
 [//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
