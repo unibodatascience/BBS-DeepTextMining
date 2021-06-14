@@ -18,6 +18,12 @@
 
 [05 Lab: Opinion Mining with Python (part 1)](https://github.com/unibodatascience/BBS-TextMining/blob/3674e7139b945696167bdc93f6cf04f75bc729f4/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1_opinion_lab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/3674e7139b945696167bdc93f6cf04f75bc729f4/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1_opinion_lab.ipynb)
 
+[05 Lab Solution: Opinion Mining with Python (part 1)](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1-opinion-lab-with-solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1-opinion-lab-with-solutions.ipynb)
+
+[06 Lab: Opinion Mining Team Work](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/06%20-%20Opinion%20MIning%20Team%20Work/2a_opinion_lab_teamwork.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/06%20-%20Opinion%20MIning%20Team%20Work/2a_opinion_lab_teamwork.ipynb)
+
+[Opinion Mining Lab: Exercises](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb)
+
 [//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
 
 [//]: # (This is a comment.) [8](https://www.dropbox.com/sh/329jwttlehmdul7/AAB9D25UyrWnj-y7Dm0ucxZBa?dl=0)
