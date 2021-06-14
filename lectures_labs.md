@@ -16,7 +16,7 @@
 
 [04 Lab of Text Classification](https://www.dropbox.com/s/1ynr9rkjm8prw3o/E2_lab_text_classification_ntsb_in_weka.pdf?dl=0)
 
-[05 Lab: Opinion Mining with Python (part 1)](https://github.com/unibodatascience/BBS-TextMining/blob/108b058d41fa0d9b649033a5cdc537eaeebfc32c/Lab%20Lecture%20%231/1_opinion_lab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/108b058d41fa0d9b649033a5cdc537eaeebfc32c/Lab%20Lecture%20%231/1_opinion_lab.ipynb)
+[05 Lab: Opinion Mining with Python (part 1)](https://github.com/unibodatascience/BBS-TextMining/blob/3674e7139b945696167bdc93f6cf04f75bc729f4/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1_opinion_lab.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/3674e7139b945696167bdc93f6cf04f75bc729f4/05%20-%20Opinion%20Mining%20with%20Python%20(part%201)/1_opinion_lab.ipynb)
 
 [//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
 

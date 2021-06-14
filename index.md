@@ -27,7 +27,7 @@ Suggested Readings:
 - Tang D., Zhang M. [Deep Learning in Sentiment Analysis](https://www.dropbox.com/s/yzeheq8zuh0owmi/Optional_Deep_Learning_in_Sentiment_A nalysis.pdf?dl=0). In Deep Learning in Natural Language Processing. Springer. 
 
 
-## Assessment method
+## Assessment
 
 The exam is composed by an evaluated team work lab and by an individual lab exercise with WEKA, both assigned by the teacher on one or more topics included in the syllabus. 
 
