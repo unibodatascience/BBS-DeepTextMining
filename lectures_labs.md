@@ -4,12 +4,6 @@
 
 [//]: # (This is a comment.) [00] text processing parte due inclusa nella prima (https://www.dropbox.com/sh/a1ic59qjke42ysz/AAAWbpB40zROT1BXvZ1TZyP_a?dl=0)
 
-[//]: # (This is a comment.) [04] LSA (https://www.dropbox.com/sh/cerhnti1qk6jn19/AABXmiPd7RpEZoY6vckR3AEpa?dl=0)
-
-[//]: # (This is a comment.) [02] LSA Lab1 (https://www.dropbox.com/sh/blajmmsftxky1ai/AAAV736OVn-bhQ65yKLAOKm6a?dl=0)
-
-[//]: # (This is a comment.) [02] LSA Lab2 aerei (https://www.dropbox.com/sh/8lnx8poc39fcxdt/AADpjicWpgnAU4ynYV0QyPa-a?dl=0)
-
 [02 Text Classification](https://www.dropbox.com/sh/kyawf6200wbftuy/AACsSxww4TSLS4y4RhMkqHnha?dl=0)
 
 [03 Sentiment Analysis & Opinion Mining](https://www.dropbox.com/s/zu0pfnvlqon94s7/3_opinion_mining_text_mining_unit_master_in_data_science.pdf?dl=0)
@@ -25,9 +19,9 @@
 [06 Lab Solution: Opinion Mining Team Work](https://github.com/unibodatascience/BBS-TextMining/blob/gh-pages/06%20-%20Opinion%20MIning%20Team%20Work/2b-opinion-lab-teamwork-solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/gh-pages/06%20-%20Opinion%20MIning%20Team%20Work/2b-opinion-lab-teamwork-solutions.ipynb)
 
 
-[Opinion Mining Lab: Exercises](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb)
+[06 Opinion Mining Lab: Exercises](https://github.com/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/d45cb42607393da0af69fdfec139df21943249d7/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises.ipynb)
 
-[//]: # (This is a comment.) [7](https://www.dropbox.com/sh/qi1ncl5w0ha5nb2/AAA-85J6C2Vkaz_c0VXjnelza?dl=0)
+[07 Text Classification Lab Exercises from the the slides 04](https://www.dropbox.com/sh/m7xfv44cx6fd4b6/AABI9B629CwtnDqZBj-R01mUa?dl=0)
 
 [//]: # (This is a comment.) [8](https://www.dropbox.com/sh/329jwttlehmdul7/AAB9D25UyrWnj-y7Dm0ucxZBa?dl=0)
 
