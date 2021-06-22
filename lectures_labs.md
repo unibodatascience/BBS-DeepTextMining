@@ -27,6 +27,12 @@
 
 [08 Lab: Opinion Mining with Python (part 2)](https://github.com/unibodatascience/BBS-TextMining/blob/435eb7bd119f56fe45a68c450a356b06743112ca/08%20-%20Opinion%20Mining%20with%20Python%20(part%202)/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/435eb7bd119f56fe45a68c450a356b06743112ca/08%20-%20Opinion%20Mining%20with%20Python%20(part%202)/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb)
 
+[08 Opinion Mining Lab: Exercises 2](https://github.com/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202.ipynb)
+
+[08 Opinion Mining Lab: Exercises 2 Solution](https://github.com/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202%20(with%20solution).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202%20(with%20solution).ipynb)
+
+
+
 [//]: # (This is a comment.) [8](https://www.dropbox.com/sh/329jwttlehmdul7/AAB9D25UyrWnj-y7Dm0ucxZBa?dl=0)
 
 [//]: # (This is a comment.) [9](https://www.dropbox.com/sh/wk96kco8eqb00cc/AADRSHoGF3nz7wlH01Z0-o9xa?dl=0)
