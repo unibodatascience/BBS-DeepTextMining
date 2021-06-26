@@ -36,4 +36,4 @@
 
 [09 (optional) Introduction to R and LSA in R](https://www.dropbox.com/s/nji2xut81nak8e2/LSA-in-R-ENG.pdf?dl=0)
 
-[//]: # (This is a comment.) [10](https://www.dropbox.com/sh/kchyfs33ie0e5wp/AADSRSTOXyZBJSSzp_3pRJKga?dl=0)
+[10 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-TextMining/blob/433f90d65e1194efd382e84a7ac28cc1b798dce4/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
