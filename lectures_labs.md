@@ -32,7 +32,7 @@
 [08 Opinion Mining Lab: Exercises 2 Solution](https://github.com/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202%20(with%20solution).ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-TextMining/blob/15b55b7840ea0d98fa58448152588b976f9ca327/Opinion-Mining-Lab-Exercises/code/Opinion%20Mining%20Lab%20-%20Exercises%202%20(with%20solution).ipynb)
 
 
-[09 (ptional) Latent Semantic Analysis (LSA)](https://www.dropbox.com/s/mk40d0ll9z66z6g/5_Dimensionality_Reduction_and_LSA.pdf?dl=0)
+[09 (optional) Latent Semantic Analysis (LSA)](https://www.dropbox.com/s/mk40d0ll9z66z6g/5_Dimensionality_Reduction_and_LSA.pdf?dl=0)
 
 [09 (optional) Introduction to R and LSA in R](https://www.dropbox.com/s/nji2xut81nak8e2/LSA-in-R-ENG.pdf?dl=0)
 
