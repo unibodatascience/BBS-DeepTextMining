@@ -36,4 +36,4 @@
 
 [09 (optional) Introduction to R and LSA in R](https://www.dropbox.com/s/nji2xut81nak8e2/LSA-in-R-ENG.pdf?dl=0)
 
-[10 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-TextMining/blob/433f90d65e1194efd382e84a7ac28cc1b798dce4/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
+[10 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-TextMining/blob/b5152849cb870be02ec4598b53d4cb9f24fba897/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
