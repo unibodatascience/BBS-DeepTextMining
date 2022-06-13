@@ -1,3 +1,3 @@
 # BBS - Text Mining
 
-Official repository for Text Mining course at Bologna Business School institute
+Official public repository for Text Mining course at Bologna Business School institute
