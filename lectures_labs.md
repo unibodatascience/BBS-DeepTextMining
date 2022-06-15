@@ -21,4 +21,4 @@
 
 [06 Lab: Opinion Mining & Sentiment Analysis - Deep Learning Techniques](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb)
 
-[Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-TextMining/blob/b5152849cb870be02ec4598b53d4cb9f24fba897/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
+[Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-DeepTextMining/blob/d04190ad8e4d88f1314598f1bc35f4cf5b4151eb/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
