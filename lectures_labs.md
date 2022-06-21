@@ -16,9 +16,10 @@
 
 [06 Lab: Text Mining in Team - Work Exercises 2](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2a_opinion_lab_in_teams.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2a_opinion_lab_in_teams.ipynb)
 
-
 [06 Lab Solution: Text Mining in Team Work Exercises 2](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2b_opinion_lab_in_teams_solutions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/06%20-%20Opinion%20Mining%20Lab%20Exercises/Teamwork%202/2b_opinion_lab_in_teams_solutions.ipynb)
 
 [07 Lab: Deep Learning Techniques](https://github.com/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/unibodatascience/BBS-DeepTextMining/blob/4c6994d9a13c702681a5054af6c60c67bb94fb49/08%20-%20Opinion%20Mining%20&%20Sentiment%20Analysis%20Deep%20Learning%20Techniques/code/Opinion_Mining_&_Sentiment_Analysis_Deep_Learning_Techniques_Bologna_Business_School.ipynb)
 
-[08 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-DeepTextMining/blob/d04190ad8e4d88f1314598f1bc35f4cf5b4151eb/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
+[08 Multi-label Text Classification, kNN for Text Mining, Details on Bayesian Text Classification Models, Classification Accuracy Confidence Interval Evalutation and Comparison Methods of Classification Models](https://www.dropbox.com/s/cnesplqrt6ab6xf/6_text_classification_and_evaluation_data_science_master.pdf?dl=0)
+
+[09 Accuracy Confidence Interval: Calculation](https://github.com/unibodatascience/BBS-DeepTextMining/blob/d04190ad8e4d88f1314598f1bc35f4cf5b4151eb/ACCURACY%20CONFIDENCE%20INTERVAL%20-%20Calculation.xlsx)
